@@ -1,0 +1,22 @@
+# Base16 Windows High Contrast - Python RGB
+# Scheme by Fergus Collins (https://github.com/C-Fergus)
+# For use in Python libraries that use RGB (e.g. Pillow)
+
+colors = {
+    'base00': (0, 0, 0),
+    'base01': (28, 28, 28),
+    'base02': (56, 56, 56),
+    'base03': (84, 84, 84),
+    'base04': (162, 162, 162),
+    'base05': (192, 192, 192),
+    'base06': (222, 222, 222),
+    'base07': (252, 252, 252),
+    'base08': (252, 84, 84),
+    'base09': (128, 128, 0),
+    'base0A': (252, 252, 84),
+    'base0B': (84, 252, 84),
+    'base0C': (84, 252, 252),
+    'base0D': (84, 84, 252),
+    'base0E': (252, 84, 252),
+    'base0F': (0, 128, 0)
+}
